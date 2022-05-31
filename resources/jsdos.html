@@ -1,0 +1,23 @@
+<!-- CURRENTLY NON FUNCTIONAL AND BEING FIXED -->
+<!DOCTYPE html>
+<!--
+    This HTML file is licensed to Project Moros under the MIT license
+    Emulator used: https://js-dos.com
+-->
+<html lang="en">
+    <head>
+        <title>js-dos</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <link rel="stylesheet" href="styles.css">
+        <script src="../jsdos/js-dos.js"></script>
+        <link href="../jsdos/js-dos.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="jsdos" />
+        <script>
+         emulators.pathPrefix = "../jsdos/";
+         Dos(document.getElementById("jsdos"))
+             .run("https://doszone-uploads.s3.dualstack.eu-central-1.amazonaws.com/original/2X/2/24b00b14f118580763440ecaddcc948f8cb94f14.jsdos");
+        </script>
+    </body>
+</html>

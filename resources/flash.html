@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+    This HTML is licensed to Project Moros under the MIT license
+    Emulator used: https://ruffle.rs
+-->
+<html lang="en" style="background-color: rgb(34, 34, 34);">
+<head>
+    <script async src="https://arc.io/widget.min.js#92Y6F9bf"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="title">Ruffle Embed</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <embed id="flashEmbed" pluginspage=" http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="100%" height="100%"></embed>
+    <script type="text/javascript">
+        var urlParams;
+        (window.onpopstate = function () {
+            var match,
+                pl     = /\+/g,
+                search = /([^&=]+)=?([^&]*)/g,
+                decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+                query  = window.location.search.substring(1);
+            urlParams = {};
+            while (match = search.exec(query))
+            urlParams[decode(match[1])] = decode(match[2]);
+        })();
+        var titleText = document.getElementById("title");
+        console.log("Retrieved URL Params: " + urlParams["swf"])
+        titleText.textContent = "Ruffle Embed - " + urlParams["swf"];
+        document.getElementById("flashEmbed").src = urlParams["swf"];
+    </script> 
+    <!-- Several instances of ruffle are listed below in case one of them is bl0cked so there is always one to fallback on -->
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle"></script>
+    <script src="/ruffle/ruffle.js"></script> <!--Local Fallback-->
+</body>
+</html>
