@@ -9,7 +9,7 @@ General document for creators with their games featured in this repository. Plea
 - [anti-pointer-lock-bypass](https://github.com/ReedGraf/anti-pointer-lock-bypass) (assets from the site) - by [Reed Graf](https://github.com/reedgraf) - A way to lock your cursor on Google Sites.
 - [EmulatorJS](https://github.com/ethanaobrien/emulatorjs) - by [Ethan Obrien](https://github.com/ethanaobrien) - A multi-console emulator with support for for 24 different consoles. The entire `rom` folder would not be possible without EmulatorJS
 - [ISD279Games](https://github.com/ReedGraf/isd279games) (assets from the site) - by [Reed Graf](https://github.com/reedgraf) - Created the site ISD279Games and we asked if we could use assets used on his site and he said (and we quote), "Sure, idc."
-- [js-dos](https://js-dos.com/) by [Alexander Guryanov](https://github.com/caiiiycuk) - A Microsoft DOS emulator. (Currently Non-Functional)
+- [js-dos](https://js-dos.com/) by [Alexander Guryanov](https://github.com/caiiiycuk) - A Microsoft DOS emulator.
 - [Radon Games Assets](https://github.com/ChillYTT/radon-games-assets) - by [Anon (ChillYTT)](https://github.com/ChillYTT/)
 ---
 

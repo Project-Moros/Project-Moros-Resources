@@ -7,13 +7,15 @@
   - [x] 20 Flash
   - [x] 30 HTML
 - [x] Fix scroll bar showing up in embeds.
-- [ ] Emulator embed with URL param support
-- [ ] Flash Embed with URL param support
-- [ ] JSDOS
-  - [ ] Fix errors so it can function
-  - [ ] Add URL param support
+- [x] Emulator embed with URL param support
+- [x] Flash Embed with URL param support
+- [x] JSDOS
+  - [x] Fix errors so it can function
+  - [x] Add URL param support
 - [x] Setup Project Moros Accounts
   - [x] Google
   - [x] GitHub
   - [x] PayPal
   - [ ] Discord
+- [ ] Add file with every game in it
+- [ ] Add this https://github.com/jcw87/c2-sans-fight/

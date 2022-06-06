@@ -9,8 +9,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title id="title">EmulatorJS DS</title>
     <link rel="stylesheet" href="styles.css">
+    <title id="title">EmulatorJS DS</title>
 </head>
 <body>
     <div id="game"></div>
@@ -29,9 +29,10 @@
         EJS_player = '#game';
         EJS_gameUrl = urlParams["rom"];
         EJS_core = 'nds';
+        EJS_BETA = true; // beta enabled for debugging 
         // Find a way to create a non-dynamically updating fallback of this
         EJS_pathtodata = 'https://ethanaobrien.github.io/emulatorjs/data/';
-        EJS_AdUrl = 'AD.html';
+        //EJS_AdUrl = 'AD.html';
         EJS_startOnLoaded = false;
         var titleText = document.getElementById("title");
         titleText.textContent = "EmulatorJS DS - " + urlParams["rom"];

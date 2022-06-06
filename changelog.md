@@ -1,5 +1,13 @@
 # changelog.md
 
+## Unreleased Beta - V 0.1.6
+
+- Added jsdos roms and some DS roms I compressed to make smaller so they can be uploaded ( < 100mb ).
+- Tested All emulators, all are working.
+- Updated `debugging-navigation.html` listing several more games and organizing them better.
+- Updated to [Ruffle Nightly 2022-06-05](https://github.com/ruffle-rs/ruffle/releases/tag/nightly-2022-06-05) to have a non-blocked fallback version of it.
+- Still need to update credits for ROMs added and add Ruffle to it (was too lazy)
+
 ## Unreleased Beta - V 0.1.2
 
 - Added 40 ROMs

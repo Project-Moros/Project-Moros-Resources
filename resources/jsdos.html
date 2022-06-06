@@ -6,18 +6,32 @@
 -->
 <html lang="en">
     <head>
-        <title>js-dos</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <link rel="stylesheet" href="styles.css">
         <script src="../jsdos/js-dos.js"></script>
         <link href="../jsdos/js-dos.css" rel="stylesheet">
+        <title>js-dos</title>
     </head>
     <body>
         <div id="jsdos" />
         <script>
-         emulators.pathPrefix = "../jsdos/";
-         Dos(document.getElementById("jsdos"))
-             .run("https://doszone-uploads.s3.dualstack.eu-central-1.amazonaws.com/original/2X/2/24b00b14f118580763440ecaddcc948f8cb94f14.jsdos");
+            var urlParams;
+            (window.onpopstate = function () {
+                var match,
+                    pl     = /\+/g,
+                    search = /([^&=]+)=?([^&]*)/g,
+                    decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+                    query  = window.location.search.substring(1);
+                urlParams = {};
+                while (match = search.exec(query))
+                urlParams[decode(match[1])] = decode(match[2]);
+            })();
+            var titleText = document.getElementById("title");
+            titleText.textContent = "js-dos - " + urlParams["rom"];
+
+            emulators.pathPrefix = "../jsdos/";
+            Dos(document.getElementById("jsdos"))
+                .run(urlParams["rom"]);
         </script>
     </body>
 </html>
