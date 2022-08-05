@@ -4,13 +4,20 @@ General document for creators with their games featured in this repository. Plea
 
 ---
 
-## Resources/Non-Games
+## Resources
 
 - [anti-pointer-lock-bypass](https://github.com/ReedGraf/anti-pointer-lock-bypass) (assets from the site) - by [Reed Graf](https://github.com/reedgraf) - A way to lock your cursor on Google Sites.
-- [EmulatorJS](https://github.com/ethanaobrien/emulatorjs) - by [Ethan Obrien](https://github.com/ethanaobrien) - A multi-console emulator with support for for 24 different consoles. The entire `rom` folder would not be possible without EmulatorJS
 - [ISD279Games](https://github.com/ReedGraf/isd279games) (assets from the site) - by [Reed Graf](https://github.com/reedgraf) - Created the site ISD279Games and we asked if we could use assets used on his site and he said (and we quote), "Sure, idc."
+- [Radon Games Assets](https://github.com/ChillYTT/radon-games-assets) - by [Anon (ChillYTT)](https://github.com/ChillYTT/) - Assets for the website [Radon Games](https://radon.games/). The Repo for the assets was the only place we could find some of the game sources.
+
+---
+
+## Emulators
+
+- [EmulatorJS](https://github.com/ethanaobrien/emulatorjs) - by [Ethan Obrien](https://github.com/ethanaobrien) - A multi-console emulator with support for for 24 different consoles. The entire `rom` folder would not be possible without EmulatorJS
 - [js-dos](https://js-dos.com/) by [Alexander Guryanov](https://github.com/caiiiycuk) - A Microsoft DOS emulator.
-- [Radon Games Assets](https://github.com/ChillYTT/radon-games-assets) - by [Anon (ChillYTT)](https://github.com/ChillYTT/)
+- [Ruffle](https://ruffle.rs/) by [Mike Welsh](https://github.com/Herschel), [kmeisthax](https://github.com/kmeisthax), and [EmperorBale](https://github.com/EmperorBale) - Adobe Flash emulator written in the Rust programming language.
+
 ---
 
 ## HTML Games
@@ -25,15 +32,15 @@ General document for creators with their games featured in this repository. Plea
 - [EaglerCraft](https://github.com/LAX1DUDE/eaglercraft) - by [LAX1DUDE](https://github.com/LAX1DUDE) - Minecraft 1.5.2 that you can play on your browser.
 - [Evil Glitch](https://github.com/agar3s/devil-glitches) - by [agar3s](https://github.com/agar3s) - Evil Glitch/Devil Glitch is an arcade shoot 'em up 2d with a retro aesthetics inspired in 80's media, lore and enemies are inspired in the crazy sacred geometry stuff.
 - Fireboy and Watergirl Forest Temple - by Oslo Albet - A puzzle game with 32 levels.
-- Friday Night Funkin vs ex HTML - by [Unknown](#unknown-people---if-youd-like-to-be-credited-let-me-know-via-email-to-properly-credit-you-projectmorosgmailcommailtoprojectmorosgmailcom)
-- Friday Night Funkin Week 6 HTML - by [Unknown](#unknown-people---if-youd-like-to-be-credited-let-me-know-via-email-to-properly-credit-you-projectmorosgmailcommailtoprojectmorosgmailcom)
+- Friday Night Funkin vs ex HTML - by Unknown[^1]
+- Friday Night Funkin Week 6 HTML - by Unknown[^1]
 - [Frogger](https://github.com/denodell/frogger/) - by [Den Odell](https://github.com/denodell) - Move the frogs to their homes across a dangerous road and river.
 - [Hacker Typer](https://github.com/duiker101/Hacker-Typer) - by [duiker101](https://github.com/duiker101) - Hacker Typer is a fun joke for every person who wants to look like a cool hacker!
 - [HexGL](https://github.com/BKcore/HexGL) - by [Thibaut Despoulain (BKcore)](https://github.com/BKcore) - Futuristic HTML5 spacecraft racing game.
 - [Hextris](https://github.com/Hextris/hextris) - by [Hextris](https://github.com/Hextris) - Fast paced HTML5 puzzle game inspired by Tetris!
 - [Madalin Cars Multiplayer](https://www.madalingames.com/madalin-cars-multiplayer/) - by [Madalin Games](https://www.madalingames.com/) - Racing game where you get to screw around with a bunch of cars.
 - [Madalin Stunt Cars 2](https://www.madalingames.com/madalin-stunt-cars-2-webgl/) - by [Madalin Games](https://www.madalingames.com/) - A racing game where you get to screw around with a bunch of cars.
-- Minesweeper Clone - by [Unknown](#unknown-people---if-youd-like-to-be-credited-let-me-know-via-email-to-properly-credit-you-projectmorosgmailcommailtoprojectmorosgmailcom)
+- Minesweeper Clone - by Unknown[^1]
 - Moto X3M - by [MadPuffers](http://madpuffers.com/) - 1st in the series of Moto X3M
 - Moto X3M Pool Party - by [MadPuffers](http://madpuffers.com/) - 5th in the series of Moto X3M.
 - Moto X3M Spooky Land - by [MadPuffers](http://madpuffers.com/) - 6th in the series of Moto X3M.
@@ -77,4 +84,15 @@ General document for creators with their games featured in this repository. Plea
 
 ---
 
-###### Unknown people - If you'd like to be credited let me know via email to properly credit you [projectmoros@gmail.com](mailto:projectmoros@gmail.com)
+## ROMs
+
+- [Nintendo](https://www.nintendo.com/) - Many many ROMs[^2] which there is too many to list. A few include, Pokemon, Mario games, and Animal Crossing. 
+- `Extra ROMs we forgot are also going to be checked for`
+- `JSDOS ROM Credits Coming Soon`
+
+---
+
+[^1]: Unknown people - If you'd like to be credited let me know via email to properly credit you [projectmoros@gmail.com](mailto:projectmoros@gmail.com)
+[^2]: Contact us if you'd like the ROMs taken down from this repository.
+
+###### 

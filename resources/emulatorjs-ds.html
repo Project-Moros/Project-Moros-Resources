@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title id="title">EmulatorJS DS</title>
+    <title>EmulatorJS DS</title>
 </head>
 <body>
     <div id="game"></div>
@@ -26,6 +26,7 @@
             while (match = search.exec(query))
             urlParams[decode(match[1])] = decode(match[2]);
         })();
+        document.getElementsByTagName("title").textContent = "EmulatorJS DS - " + urlParams["rom"];
         EJS_player = '#game';
         EJS_gameUrl = urlParams["rom"];
         EJS_core = 'nds';
@@ -34,8 +35,6 @@
         EJS_pathtodata = 'https://ethanaobrien.github.io/emulatorjs/data/';
         //EJS_AdUrl = 'AD.html';
         EJS_startOnLoaded = false;
-        var titleText = document.getElementById("title");
-        titleText.textContent = "EmulatorJS DS - " + urlParams["rom"];
     </script>
     <script src="https://ethanaobrien.github.io/emulatorjs/data/loader.js"></script>
 </body>

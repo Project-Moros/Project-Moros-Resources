@@ -1,5 +1,13 @@
 # changelog.md
 
+## Unreleased Beta - V 0.1.8
+
+- Added fallback support to `jsdos.html`. (Needs Testing)
+- Updated JSDOS to v7.4.4
+- Updated Eaglercraft to a single file.
+- Updated to [Ruffle ]() to have a non-blocked fallback version of it.
+- Updated `credits.md` to include ROM authors and added Ruffle
+
 ## Unreleased Beta - V 0.1.6
 
 - Added jsdos roms and some DS roms I compressed to make smaller so they can be uploaded ( < 100mb ).

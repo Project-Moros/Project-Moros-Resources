@@ -8,7 +8,11 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <link rel="stylesheet" href="styles.css">
+        <!-- JavaScript -->
+        <script src="https://js-dos.com/v7/build/releases/latest/js-dos/js-dos.js"></script>
         <script src="../jsdos/js-dos.js"></script>
+        <!-- Stylesheets -->
+        <link rel="stylesheet" href="https://js-dos.com/v7/build/releases/latest/js-dos/js-dos.css">
         <link href="../jsdos/js-dos.css" rel="stylesheet">
         <title>js-dos</title>
     </head>
@@ -26,8 +30,7 @@
                 while (match = search.exec(query))
                 urlParams[decode(match[1])] = decode(match[2]);
             })();
-            var titleText = document.getElementById("title");
-            titleText.textContent = "js-dos - " + urlParams["rom"];
+            document.getElementsByTagName("title").textContent = "js-dos - " + urlParams["rom"];
 
             emulators.pathPrefix = "../jsdos/";
             Dos(document.getElementById("jsdos"))

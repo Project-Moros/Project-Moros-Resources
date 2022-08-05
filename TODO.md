@@ -17,5 +17,5 @@
   - [x] GitHub
   - [x] PayPal
   - [ ] Discord
-- [ ] Add file with every game in it
+- [x] Add file with every game in it
 - [ ] Add this https://github.com/jcw87/c2-sans-fight/

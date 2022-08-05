@@ -26,6 +26,7 @@
             while (match = search.exec(query))
             urlParams[decode(match[1])] = decode(match[2]);
         })();
+        document.getElementsByTagName("title").textContent = "EmulatorJS SNES - " + urlParams["rom"];
         EJS_player = '#game';
         EJS_gameUrl = urlParams["rom"];
         EJS_core = 'snes';
