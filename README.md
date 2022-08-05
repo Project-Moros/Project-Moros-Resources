@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1 style="margin-top: 0px; margin-bottom: 10px; font-family: sans-serif; background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">PROJECT MOROS</h1>
-  <h3 style="color: #808080; font-family: 'Nunito Sans', sans-serif;">Unreleased Beta V0.1.8<h3>
+  <h1 style="color: red;">PROJECT MOROS</h1>
+  <h3 style="color: gray">Unreleased Beta V0.1.8<h3>
   <a href="https://sites.google.com/view/projectmoros"><img alt="Website" src="https://img.shields.io/website?&down_color=Red&down_message=Offline&up_color=Green&up_message=Online&url=https%3A%2F%2Fsites.google.com%2Fview%2Fprojectmoros&style=flat-square"></a>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Project-Moros/Project-Moros-Resources?style=flat-square">
   <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Project-Moros/Project-Moros-Resources?style=flat-square">
