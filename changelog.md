@@ -1,18 +1,27 @@
 # changelog.md
 
+## Unreleased Beta - V 0.2.0 - (A not so refined update)
+
+- Updated to [Ruffle ]() to have a non-blocked fallback version of it.
+- Updated [`credits.md`](credits.md)
+- Updated [`README.md`](README.md)
+- Updated [`TODO.md`](TODO.md)
+- Added embed checking. (Needs Testing)
+- Added HTML Games to [`debugging-navigation.html`](debugging-navigation.html)
+
 ## Unreleased Beta - V 0.1.8
 
 - Added fallback support to `jsdos.html`. (Needs Testing)
 - Updated JSDOS to v7.4.4
 - Updated Eaglercraft to a single file.
-- Updated to [Ruffle ]() to have a non-blocked fallback version of it.
-- Updated `credits.md` to include ROM authors and added Ruffle
+- Updated to [Ruffle Nightly 2022-08-04](https://github.com/ruffle-rs/ruffle/releases/tag/nightly-2022-08-04) to have a non-blocked fallback version of it.
+- Updated [`credits.md`](credits.md) to include ROM authors and added Ruffle
 
 ## Unreleased Beta - V 0.1.6
 
 - Added jsdos roms and some DS roms I compressed to make smaller so they can be uploaded ( < 100mb ).
 - Tested All emulators, all are working.
-- Updated `debugging-navigation.html` listing several more games and organizing them better.
+- Updated [`debugging-navigation.html`](debugging-navigation.html) listing several more games and organizing them better.
 - Updated to [Ruffle Nightly 2022-06-05](https://github.com/ruffle-rs/ruffle/releases/tag/nightly-2022-06-05) to have a non-blocked fallback version of it.
 - Still need to update credits for ROMs added and add Ruffle to it (was too lazy)
 
@@ -20,7 +29,7 @@
 
 - Added 40 ROMs
 - Added NES, SNES, and N64 (untested)
-- Updated `debugging-navigation.html` to completely local instances of each game.
+- Updated [`debugging-navigation.html`](debugging-navigation.html) to completely local instances of each game.
 - Updated to [Ruffle Nightly 2022-06-01](https://github.com/ruffle-rs/ruffle/releases/tag/nightly-2022-06-01) to have a non-blocked fallback version of it.
 - Need to update credits for ROMs added and add Ruffle to it
 

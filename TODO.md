@@ -1,7 +1,7 @@
 # TODO - General
 
 - [x] Create [README.md](/README.md)
-  - [ ] Finish filling it out :flushed:
+  - [x] Finish filling it out :flushed:
 - [x] Import Ruffle
 - [x] At least 50 Games
   - [x] 20 Flash
@@ -16,6 +16,9 @@
   - [x] Google
   - [x] GitHub
   - [x] PayPal
+  - [x] TikTok
   - [ ] Discord
 - [x] Add file with every game in it
-- [ ] Add this https://github.com/jcw87/c2-sans-fight/
+- [ ] Embed Protection
+  - [x] Created
+  - [ ] Tested

@@ -8,7 +8,7 @@ General document for creators with their games featured in this repository. Plea
 
 - [anti-pointer-lock-bypass](https://github.com/ReedGraf/anti-pointer-lock-bypass) (assets from the site) - by [Reed Graf](https://github.com/reedgraf) - A way to lock your cursor on Google Sites.
 - [ISD279Games](https://github.com/ReedGraf/isd279games) (assets from the site) - by [Reed Graf](https://github.com/reedgraf) - Created the site ISD279Games and we asked if we could use assets used on his site and he said (and we quote), "Sure, idc."
-- [Radon Games Assets](https://github.com/ChillYTT/radon-games-assets) - by [Anon (ChillYTT)](https://github.com/ChillYTT/) - Assets for the website [Radon Games](https://radon.games/). The Repo for the assets was the only place we could find some of the game sources.
+- [Radon Games Assets](https://github.com/ChillYTT/radon-games-assets) (assets from the site) - by [Anon (ChillYTT)](https://github.com/ChillYTT/) - Assets for the website [Radon Games](https://radon.games/). The Repo for the assets was the only place we could find some of the game sources.
 
 ---
 
