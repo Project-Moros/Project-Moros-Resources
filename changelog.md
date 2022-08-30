@@ -1,8 +1,27 @@
 # changelog.md
 
-## Unreleased Beta - V 0.2.0 - (A not so refined update)
+## Release - V 0.2.2
 
-- Updated to [Ruffle ]() to have a non-blocked fallback version of it.
+- Updated [`credits.md`](credits.md) 
+  - Added WallpaperAccess
+  - Added JSDOS ROMs
+  - Added emojis to topics
+- Edited [`banner.jpg`](/pics/banner.jpg)
+- Updated [`README.md`](README.md)
+- Updated [`TODO.md`](TODO.md)
+- Updated [`eaglercraft`](/html-games/eaglercraft/index.html)
+- Updated to [Ruffle Nightly 2022-08-30](https://github.com/ruffle-rs/ruffle/releases/tag/nightly-2022-08-30) to have a non-blocked fallback version of it.
+
+---
+
+## OUT OF BETA 🎉
+
+---
+
+## Unreleased Beta - V 0.2.0
+
+> A not so refined update
+
 - Updated [`credits.md`](credits.md)
 - Updated [`README.md`](README.md)
 - Updated [`TODO.md`](TODO.md)

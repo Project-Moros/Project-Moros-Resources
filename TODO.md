@@ -6,6 +6,7 @@
 - [x] At least 50 Games
   - [x] 20 Flash
   - [x] 30 HTML
+  - [x] Add ROMs?
 - [x] Fix scroll bar showing up in embeds.
 - [x] Emulator embed with URL param support
 - [x] Flash Embed with URL param support

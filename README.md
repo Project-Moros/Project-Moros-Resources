@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>PROJECT MOROS</h1>
-  <h3>Unreleased Beta V0.2.0<h3>
+  <h3>Release V0.2.2<h3>
   <a href="https://sites.google.com/view/projectmoros"><img alt="Website" src="https://img.shields.io/website?&down_color=Red&down_message=Offline&up_color=Green&up_message=Online&url=https%3A%2F%2Fsites.google.com%2Fview%2Fprojectmoros&style=flat-square"></a>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Project-Moros/Project-Moros-Resources?style=flat-square">
   <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Project-Moros/Project-Moros-Resources?style=flat-square">

@@ -4,15 +4,16 @@ General document for creators with their games featured in this repository. Plea
 
 ---
 
-## Resources
+## Resources 📁
 
 - [anti-pointer-lock-bypass](https://github.com/ReedGraf/anti-pointer-lock-bypass) (assets from the site) - by [Reed Graf](https://github.com/reedgraf) - A way to lock your cursor on Google Sites.
 - [ISD279Games](https://github.com/ReedGraf/isd279games) (assets from the site) - by [Reed Graf](https://github.com/reedgraf) - Created the site ISD279Games and we asked if we could use assets used on his site and he said (and we quote), "Sure, idc."
 - [Radon Games Assets](https://github.com/ChillYTT/radon-games-assets) (assets from the site) - by [Anon (ChillYTT)](https://github.com/ChillYTT/) - Assets for the website [Radon Games](https://radon.games/). The Repo for the assets was the only place we could find some of the game sources.
+- [WallpaperAccess](https://wallpaperaccess.com) -  Banner Image
 
 ---
 
-## Emulators
+## Emulators 🕹️
 
 - [EmulatorJS](https://github.com/ethanaobrien/emulatorjs) - by [Ethan Obrien](https://github.com/ethanaobrien) - A multi-console emulator with support for for 24 different consoles. The entire `rom` folder would not be possible without EmulatorJS
 - [js-dos](https://js-dos.com/) by [Alexander Guryanov](https://github.com/caiiiycuk) - A Microsoft DOS emulator.
@@ -20,7 +21,7 @@ General document for creators with their games featured in this repository. Plea
 
 ---
 
-## HTML Games
+## HTML Games 🎮
 
 - [2048](https://github.com/gabrielecirulli/2048) - by [Gabriele Cirulli](https://github.com/gabrielecirulli/) - A game about combining numbers to get to the block 2048.
 - [Asteroids Clone](https://github.com/dmcinnes/HTML5-Asteroids) - by [Doug McInnes](https://github.com/dmcinnes) - The goal is to destroy the asteroids and flying saucers, while not being hit by them.
@@ -58,7 +59,7 @@ General document for creators with their games featured in this repository. Plea
 
 ---
 
-## Flash Games
+## Flash Games 📸
 
 - [Alien Hominid](https://www.newgrounds.com/portal/view/59593) - by [Dan Padlin](https://danpaladin.newgrounds.com/) and [Tom Fulp](https://tomfulp.newgrounds.com/) - Release: Aug 7, 2002 - Side-scrolling shooter where you are an alien fighting off agents trying to kill you from the earth.
 - [Bloxorz](https://damienclarke.me/#bloxorz) - by [Damien Clarke](https://damienclarke.me) - Release: 2007 - Move a block around a floating platform using the arrow keys, dropping it through the square hole to finish the level.
@@ -84,11 +85,23 @@ General document for creators with their games featured in this repository. Plea
 
 ---
 
-## ROMs
+## ROMs 💿
 
 - [Nintendo](https://www.nintendo.com/) - Many many ROMs[^2] which there is too many to list. A few include, Pokemon, Mario games, and Animal Crossing. 
-- `Extra ROMs we forgot are also going to be checked for`
-- `JSDOS ROM Credits Coming Soon`
+
+## MSDOS ROMs 💾
+
+- [Digger](https://www.digger.org) - by Windmill Software
+- Doom - by [id Software](https://www.idsoftware.com/)
+- Doom 2 - by [id Software](https://www.idsoftware.com/)
+- Grand Theft Auto - by [DMA Design](https://www.rockstarnorth.com/) (Now Rockstar North)
+- Mortal Kombat - by Midway Games
+- Need For Speed - by [Electronic Arts](https://www.ea.com/)
+- Oregon Trail - by MECC
+- Sim City 2000 - by [Maxis](https://www.ea.com/ea-studios/maxis) (Subsidiary to Electronic Arts )
+- Test Drive - by Accolade
+- Ultimate Doom - by [id Software](https://www.idsoftware.com/)
+- Wolfenstein 3D - by [id Software](https://www.idsoftware.com/)
 
 ---
 
