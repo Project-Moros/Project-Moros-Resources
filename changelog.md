@@ -1,5 +1,14 @@
 # changelog.md
 
+## Release - V 0.2.4
+
+- Added Arc to games.
+- Updated [`README.md`](README.md)
+- Added default servers to [`eaglercraft`](/html-games/eaglercraft/index.html)
+- Updated to [Ruffle Nightly Nightly 2022-09-03](https://github.com/ruffle-rs/ruffle/releases/tag/nightly-2022-09-03) to have a non-blocked fallback version of it.
+
+---
+
 ## Release - V 0.2.2
 
 - Updated [`credits.md`](credits.md) 
