@@ -6,4 +6,4 @@
 //     window.top.location.href = site;
 // }
 
-alert("Embed Protection Not Active")
+console.log("Embed Protection Not Active")

@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <h1>PROJECT MOROS</h1>
-  <h3>Release V0.2.4<h3>
+  <h3>Release V0.2.6<h3>
   <a href="https://sites.google.com/view/projectmoros"><img alt="Website" src="https://img.shields.io/website?&down_color=Red&down_message=Offline&up_color=Green&up_message=Online&url=https%3A%2F%2Fsites.google.com%2Fview%2Fprojectmoros&style=flat-square"></a>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Project-Moros/Project-Moros-Resources?style=flat-square">
   <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Project-Moros/Project-Moros-Resources?style=flat-square">
-  <!-- <a href="https://discord.gg/INVITE"><img alt="Main Google Site" src="https://img.shields.io/discord/id here"></a> -->
+  <!-- <a href="https://discord.gg/INVITE"><img alt="Discord Server" src="https://img.shields.io/discord/id here"></a> -->
   <a href="https://www.paypal.com/donate/?business=VJDEWWC6XZZ6W"><img alt="Paypal Button" src="https://img.shields.io/static/v1?label=PayPal&message=Donate&color=00457C&style=flat-square&logo=paypal"></a>
 </div>
 Project Moros is a game site project that it's the main goal to bypass web filters and stay unblocked.

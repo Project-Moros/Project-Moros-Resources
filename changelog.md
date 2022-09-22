@@ -1,5 +1,13 @@
 # changelog.md
 
+## Release - V 0.2.6
+
+- Updated EmulatorJS instances
+- Updated [`url-check.js`](url-check/url-check.js)
+- Updated [`README.md`](README.md)
+
+---
+
 ## Release - V 0.2.4
 
 - Added Arc to games.
