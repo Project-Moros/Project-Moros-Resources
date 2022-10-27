@@ -35,7 +35,6 @@ General document for creators with their games featured in this repository. Plea
 - Fireboy and Watergirl Forest Temple - by Oslo Albet - A puzzle game with 32 levels.
 - Friday Night Funkin vs ex HTML - by Unknown[^1]
 - Friday Night Funkin Week 6 HTML - by Unknown[^1]
-- [Frogger](https://github.com/denodell/frogger/) - by [Den Odell](https://github.com/denodell) - Move the frogs to their homes across a dangerous road and river.
 - [Hacker Typer](https://github.com/duiker101/Hacker-Typer) - by [duiker101](https://github.com/duiker101) - Hacker Typer is a fun joke for every person who wants to look like a cool hacker!
 - [HexGL](https://github.com/BKcore/HexGL) - by [Thibaut Despoulain (BKcore)](https://github.com/BKcore) - Futuristic HTML5 spacecraft racing game.
 - [Hextris](https://github.com/Hextris/hextris) - by [Hextris](https://github.com/Hextris) - Fast paced HTML5 puzzle game inspired by Tetris!

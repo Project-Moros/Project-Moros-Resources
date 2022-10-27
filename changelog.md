@@ -1,5 +1,21 @@
 # changelog.md
 
+## Release - V 0.2.8
+
+- Updated [`README.md`](README.md)
+- Fixed no background on asteroids
+- Updated Eaglercraft
+- Fixed no movement on Evil Glitch and Eaglercraft 
+- Deleted HTML Frogger due to redundancy with jsdos version 
+- Added fullscreen for hacker typer
+- Trying to fix Run 3 (WIP)
+- Fixed EmulatorJS not loading in emulated games due to capitalization issue
+- Added source code for EaglerCraft's specific launcher
+- Added JSDOS, NES, and SNES games to Google Site
+- Updated credits.md accordingly
+
+---
+
 ## Release - V 0.2.6
 
 - Updated EmulatorJS instances
